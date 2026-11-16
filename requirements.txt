@@ -1,0 +1,7 @@
+# Python 3.11 or newer (tested with Python 3.13.9). Only Python packages are listed here.
+pandas>=2.2      # tested with 2.3.3
+networkx>=3.3    # tested with 3.5
+tabulate         # Markdown tables in output/results/results.md
+matplotlib       # make_figures.py
+markdown         # make_pdf.py (also needs Microsoft Edge or Google Chrome installed)
+pymupdf    # make_pdf.py: page numbers for the contents

@@ -1,0 +1,11 @@
+﻿turbine,event_id,status,start,end,duration,code,message,source_file,source_line
+Kelmarsh 6,event:Kelmarsh_6:L842,Warning,2021-02-05 08:33:07,2021-02-05 08:33:09,00:00:02,1050,Drivetrain oscillations,Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,842
+Kelmarsh 6,event:Kelmarsh_6:L844,Warning,2021-02-05 08:33:14,2021-02-05 08:33:16,00:00:02,1050,Drivetrain oscillations,Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,844
+Kelmarsh 6,event:Kelmarsh_6:L846,Warning,2021-02-05 08:33:16,2021-02-05 08:33:18,00:00:02,1050,Drivetrain oscillations,Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,846
+Kelmarsh 6,event:Kelmarsh_6:L848,Warning,2021-02-05 08:33:34,2021-02-05 08:33:36,00:00:02,1050,Drivetrain oscillations,Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,848
+Kelmarsh 6,event:Kelmarsh_6:L850,Warning,2021-02-05 08:33:41,2021-02-05 08:33:43,00:00:02,1050,Drivetrain oscillations,Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,850
+Kelmarsh 6,event:Kelmarsh_6:L852,Warning,2021-02-05 08:33:44,2021-02-05 08:33:46,00:00:02,1050,Drivetrain oscillations,Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,852
+Kelmarsh 6,event:Kelmarsh_6:L855,Warning,2021-02-05 08:33:55,2021-02-05 08:33:57,00:00:02,1050,Drivetrain oscillations,Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,855
+Kelmarsh 6,event:Kelmarsh_6:L863,Warning,2021-02-05 08:40:36,2021-02-05 08:40:38,00:00:02,1050,Drivetrain oscillations,Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,863
+Kelmarsh 6,event:Kelmarsh_6:L872,Warning,2021-02-05 08:46:14,2021-02-05 08:46:16,00:00:02,1050,Drivetrain oscillations,Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,872
+Kelmarsh 6,event:Kelmarsh_6:L873,Warning,2021-02-05 08:46:16,2021-02-08 13:43:43,76:57:27,1050,Drivetrain oscillations,Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,873

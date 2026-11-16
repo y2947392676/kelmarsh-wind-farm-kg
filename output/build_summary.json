@@ -1,0 +1,36 @@
+{
+  "built_at_utc": "2026-11-16T10:56:56+00:00",
+  "data_dir": "D:\\Antigravity\\\u9879\u76ee\u4f18\u5316\\kelmarsh_kg\\raw_data\\Kelmarsh_SCADA_2021_4456",
+  "nodes": 414506,
+  "edges": 828863,
+  "nodes_by_type": {
+    "Turbine": 2,
+    "Signal": 13,
+    "Component": 7,
+    "EventCode": 58,
+    "Event": 547,
+    "Observation": 413879
+  },
+  "edges_by_type": {
+    "HAS_EVENT": 547,
+    "HAS_OBSERVATION": 413879,
+    "MEASURES_ON": 11,
+    "HAS_CODE": 547,
+    "OF_SIGNAL": 413879
+  },
+  "alarm_days": {
+    "Kelmarsh_1": 109,
+    "Kelmarsh_6": 118
+  },
+  "log_counts": {
+    "rejected_edges": 0,
+    "node_conflicts": 0,
+    "rejected_records": 4,
+    "duplicate_records": 0,
+    "missing_values": 11065
+  },
+  "repeated_identical_inserts": {
+    "nodes": 493,
+    "edges": 0
+  }
+}

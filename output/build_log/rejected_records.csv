@@ -1,0 +1,5 @@
+source_file,source_line,reason
+Status_Kelmarsh_1_2021-01-01_-_2022-01-01_228.csv,,status 'Informational' outside scope (9671 rows)
+Status_Kelmarsh_1_2021-01-01_-_2022-01-01_228.csv,,status 'Communication' outside scope (15 rows)
+Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,,status 'Communication' outside scope (17 rows)
+Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,,status 'Informational' outside scope (13780 rows)

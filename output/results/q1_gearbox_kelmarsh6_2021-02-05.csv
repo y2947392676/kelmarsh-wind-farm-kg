@@ -1,0 +1,577 @@
+﻿turbine,time,signal,value,unit,component,source_file,source_line
+Kelmarsh 6,2021-02-05 00:00:00,Gear oil inlet pressure,86.80598373413085,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5051
+Kelmarsh 6,2021-02-05 00:10:00,Gear oil inlet pressure,86.201420211792,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5052
+Kelmarsh 6,2021-02-05 00:20:00,Gear oil inlet pressure,84.7301456451416,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5053
+Kelmarsh 6,2021-02-05 00:30:00,Gear oil inlet pressure,85.29182968139648,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5054
+Kelmarsh 6,2021-02-05 00:40:00,Gear oil inlet pressure,86.11428909301758,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5055
+Kelmarsh 6,2021-02-05 00:50:00,Gear oil inlet pressure,86.57404518127441,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5056
+Kelmarsh 6,2021-02-05 01:00:00,Gear oil inlet pressure,86.83680534362793,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5057
+Kelmarsh 6,2021-02-05 01:10:00,Gear oil inlet pressure,86.86503372192382,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5058
+Kelmarsh 6,2021-02-05 01:20:00,Gear oil inlet pressure,88.47791328430176,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5059
+Kelmarsh 6,2021-02-05 01:30:00,Gear oil inlet pressure,86.71732749938965,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5060
+Kelmarsh 6,2021-02-05 01:40:00,Gear oil inlet pressure,88.52979393005371,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5061
+Kelmarsh 6,2021-02-05 01:50:00,Gear oil inlet pressure,87.83108329772949,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5062
+Kelmarsh 6,2021-02-05 02:00:00,Gear oil inlet pressure,87.91378822326661,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5063
+Kelmarsh 6,2021-02-05 02:10:00,Gear oil inlet pressure,88.19928436279297,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5064
+Kelmarsh 6,2021-02-05 02:20:00,Gear oil inlet pressure,89.2196548461914,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5065
+Kelmarsh 6,2021-02-05 02:30:00,Gear oil inlet pressure,88.14984512329102,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5066
+Kelmarsh 6,2021-02-05 02:40:00,Gear oil inlet pressure,89.77691345214843,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5067
+Kelmarsh 6,2021-02-05 02:50:00,Gear oil inlet pressure,89.9125675201416,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5068
+Kelmarsh 6,2021-02-05 03:00:00,Gear oil inlet pressure,88.69886283874511,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5069
+Kelmarsh 6,2021-02-05 03:10:00,Gear oil inlet pressure,87.18974609375,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5070
+Kelmarsh 6,2021-02-05 03:20:00,Gear oil inlet pressure,88.96681289672851,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5071
+Kelmarsh 6,2021-02-05 03:30:00,Gear oil inlet pressure,89.14656295776368,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5072
+Kelmarsh 6,2021-02-05 03:40:00,Gear oil inlet pressure,88.98863105773925,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5073
+Kelmarsh 6,2021-02-05 03:50:00,Gear oil inlet pressure,88.76050872802735,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5074
+Kelmarsh 6,2021-02-05 04:00:00,Gear oil inlet pressure,88.5888537238626,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5075
+Kelmarsh 6,2021-02-05 04:10:00,Gear oil inlet pressure,88.78052480597245,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5076
+Kelmarsh 6,2021-02-05 04:20:00,Gear oil inlet pressure,90.56061515808106,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5077
+Kelmarsh 6,2021-02-05 04:30:00,Gear oil inlet pressure,90.202486038208,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5078
+Kelmarsh 6,2021-02-05 04:40:00,Gear oil inlet pressure,90.3848316192627,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5079
+Kelmarsh 6,2021-02-05 04:50:00,Gear oil inlet pressure,89.42092018127441,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5080
+Kelmarsh 6,2021-02-05 05:00:00,Gear oil inlet pressure,89.04951553344726,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5081
+Kelmarsh 6,2021-02-05 05:10:00,Gear oil inlet pressure,86.80674514770507,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5082
+Kelmarsh 6,2021-02-05 05:20:00,Gear oil inlet pressure,88.88395538330079,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5083
+Kelmarsh 6,2021-02-05 05:30:00,Gear oil inlet pressure,90.37079391479492,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5084
+Kelmarsh 6,2021-02-05 05:40:00,Gear oil inlet pressure,91.17494583129884,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5085
+Kelmarsh 6,2021-02-05 05:50:00,Gear oil inlet pressure,91.32295722961427,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5086
+Kelmarsh 6,2021-02-05 06:00:00,Gear oil inlet pressure,90.30304374694823,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5087
+Kelmarsh 6,2021-02-05 06:10:00,Gear oil inlet pressure,90.14358749389648,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5088
+Kelmarsh 6,2021-02-05 06:20:00,Gear oil inlet pressure,91.90051078796388,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5089
+Kelmarsh 6,2021-02-05 06:30:00,Gear oil inlet pressure,91.58953285217284,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5090
+Kelmarsh 6,2021-02-05 06:40:00,Gear oil inlet pressure,95.48546600341795,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5091
+Kelmarsh 6,2021-02-05 06:50:00,Gear oil inlet pressure,92.8741897583008,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5092
+Kelmarsh 6,2021-02-05 07:00:00,Gear oil inlet pressure,91.2207218170166,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5093
+Kelmarsh 6,2021-02-05 07:10:00,Gear oil inlet pressure,91.48088788986206,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5094
+Kelmarsh 6,2021-02-05 07:20:00,Gear oil inlet pressure,91.45342294793382,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5095
+Kelmarsh 6,2021-02-05 07:30:00,Gear oil inlet pressure,91.0992328419405,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5096
+Kelmarsh 6,2021-02-05 07:40:00,Gear oil inlet pressure,91.95937949732732,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5097
+Kelmarsh 6,2021-02-05 07:50:00,Gear oil inlet pressure,91.58953170776368,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5098
+Kelmarsh 6,2021-02-05 08:00:00,Gear oil inlet pressure,91.27992744445802,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5099
+Kelmarsh 6,2021-02-05 08:10:00,Gear oil inlet pressure,91.7477695465088,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5100
+Kelmarsh 6,2021-02-05 08:20:00,Gear oil inlet pressure,80.27344303131103,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5101
+Kelmarsh 6,2021-02-05 08:30:00,Gear oil inlet pressure,58.68299465179446,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5102
+Kelmarsh 6,2021-02-05 08:40:00,Gear oil inlet pressure,57.15693950653074,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5103
+Kelmarsh 6,2021-02-05 08:50:00,Gear oil inlet pressure,10.635996615886686,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5104
+Kelmarsh 6,2021-02-05 09:00:00,Gear oil inlet pressure,2.1199363052845,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5105
+Kelmarsh 6,2021-02-05 09:10:00,Gear oil inlet pressure,18.010528993606574,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5106
+Kelmarsh 6,2021-02-05 09:20:00,Gear oil inlet pressure,11.844052876532078,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5107
+Kelmarsh 6,2021-02-05 09:30:00,Gear oil inlet pressure,2.02395704984665,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5108
+Kelmarsh 6,2021-02-05 09:40:00,Gear oil inlet pressure,19.818112570047376,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5109
+Kelmarsh 6,2021-02-05 09:50:00,Gear oil inlet pressure,12.349126857519147,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5110
+Kelmarsh 6,2021-02-05 10:00:00,Gear oil inlet pressure,1.92690966129303,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5111
+Kelmarsh 6,2021-02-05 10:10:00,Gear oil inlet pressure,26.668956273794173,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5112
+Kelmarsh 6,2021-02-05 10:20:00,Gear oil inlet pressure,14.527809810638429,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5113
+Kelmarsh 6,2021-02-05 10:30:00,Gear oil inlet pressure,1.6189825892448426,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5114
+Kelmarsh 6,2021-02-05 10:40:00,Gear oil inlet pressure,29.4203100860119,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5115
+Kelmarsh 6,2021-02-05 10:50:00,Gear oil inlet pressure,14.056153514236213,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5116
+Kelmarsh 6,2021-02-05 11:00:00,Gear oil inlet pressure,1.5324639499187471,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5117
+Kelmarsh 6,2021-02-05 11:10:00,Gear oil inlet pressure,29.548180103301984,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5118
+Kelmarsh 6,2021-02-05 11:20:00,Gear oil inlet pressure,15.813534799218177,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5119
+Kelmarsh 6,2021-02-05 11:30:00,Gear oil inlet pressure,1.3130392223596572,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5120
+Kelmarsh 6,2021-02-05 11:40:00,Gear oil inlet pressure,31.866941732168176,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5121
+Kelmarsh 6,2021-02-05 11:50:00,Gear oil inlet pressure,16.025788289308544,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5122
+Kelmarsh 6,2021-02-05 12:00:00,Gear oil inlet pressure,1.1026173055171973,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5123
+Kelmarsh 6,2021-02-05 12:10:00,Gear oil inlet pressure,32.89341531395911,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5124
+Kelmarsh 6,2021-02-05 12:20:00,Gear oil inlet pressure,16.92317086085678,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5125
+Kelmarsh 6,2021-02-05 12:30:00,Gear oil inlet pressure,1.321279063820839,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5126
+Kelmarsh 6,2021-02-05 12:40:00,Gear oil inlet pressure,32.34622665643696,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5127
+Kelmarsh 6,2021-02-05 12:50:00,Gear oil inlet pressure,16.786144775152213,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5128
+Kelmarsh 6,2021-02-05 13:00:00,Gear oil inlet pressure,1.2317086249589924,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5129
+Kelmarsh 6,2021-02-05 13:10:00,Gear oil inlet pressure,35.64889066219329,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5130
+Kelmarsh 6,2021-02-05 13:20:00,Gear oil inlet pressure,18.65903737470508,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5131
+Kelmarsh 6,2021-02-05 13:30:00,Gear oil inlet pressure,1.2277412772178655,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5132
+Kelmarsh 6,2021-02-05 13:40:00,Gear oil inlet pressure,37.40413671433929,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5133
+Kelmarsh 6,2021-02-05 13:50:00,Gear oil inlet pressure,19.26527919908986,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5134
+Kelmarsh 6,2021-02-05 14:00:00,Gear oil inlet pressure,1.3688872247934347,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5135
+Kelmarsh 6,2021-02-05 14:10:00,Gear oil inlet pressure,38.5464255154133,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5136
+Kelmarsh 6,2021-02-05 14:20:00,Gear oil inlet pressure,20.42771116942165,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5137
+Kelmarsh 6,2021-02-05 14:30:00,Gear oil inlet pressure,1.0772873312234883,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5138
+Kelmarsh 6,2021-02-05 14:40:00,Gear oil inlet pressure,36.97734173536304,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5139
+Kelmarsh 6,2021-02-05 14:50:00,Gear oil inlet pressure,18.911116920970382,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5140
+Kelmarsh 6,2021-02-05 15:00:00,Gear oil inlet pressure,0.935073247551918,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5141
+Kelmarsh 6,2021-02-05 15:10:00,Gear oil inlet pressure,36.77439596056935,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5142
+Kelmarsh 6,2021-02-05 15:20:00,Gear oil inlet pressure,18.77439634855837,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5143
+Kelmarsh 6,2021-02-05 15:30:00,Gear oil inlet pressure,0.688640034198761,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5144
+Kelmarsh 6,2021-02-05 15:40:00,Gear oil inlet pressure,36.18905911147594,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5145
+Kelmarsh 6,2021-02-05 15:50:00,Gear oil inlet pressure,18.263905569328927,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5146
+Kelmarsh 6,2021-02-05 16:00:00,Gear oil inlet pressure,0.8156352482343976,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5147
+Kelmarsh 6,2021-02-05 16:10:00,Gear oil inlet pressure,40.388427078723936,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5148
+Kelmarsh 6,2021-02-05 16:20:00,Gear oil inlet pressure,19.53002221984789,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5149
+Kelmarsh 6,2021-02-05 16:30:00,Gear oil inlet pressure,0.9102010309696198,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5150
+Kelmarsh 6,2021-02-05 16:40:00,Gear oil inlet pressure,42.60944639444355,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5151
+Kelmarsh 6,2021-02-05 16:50:00,Gear oil inlet pressure,22.623331325873743,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5152
+Kelmarsh 6,2021-02-05 17:00:00,Gear oil inlet pressure,0.8595410734415054,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5153
+Kelmarsh 6,2021-02-05 17:10:00,Gear oil inlet pressure,45.22621466219424,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5154
+Kelmarsh 6,2021-02-05 17:20:00,Gear oil inlet pressure,24.807964679226256,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5155
+Kelmarsh 6,2021-02-05 17:30:00,Gear oil inlet pressure,0.7263298183679581,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5156
+Kelmarsh 6,2021-02-05 17:40:00,Gear oil inlet pressure,47.520714958012135,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5157
+Kelmarsh 6,2021-02-05 17:50:00,Gear oil inlet pressure,24.831922134757,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5158
+Kelmarsh 6,2021-02-05 18:00:00,Gear oil inlet pressure,0.8033878743648529,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5159
+Kelmarsh 6,2021-02-05 18:10:00,Gear oil inlet pressure,49.757839310169246,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5160
+Kelmarsh 6,2021-02-05 18:20:00,Gear oil inlet pressure,26.370489431358823,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5161
+Kelmarsh 6,2021-02-05 18:30:00,Gear oil inlet pressure,0.6970324978232384,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5162
+Kelmarsh 6,2021-02-05 18:40:00,Gear oil inlet pressure,49.88586402088407,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5163
+Kelmarsh 6,2021-02-05 18:50:00,Gear oil inlet pressure,25.25215583890672,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5164
+Kelmarsh 6,2021-02-05 19:00:00,Gear oil inlet pressure,0.4315255105495453,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5165
+Kelmarsh 6,2021-02-05 19:10:00,Gear oil inlet pressure,49.90539478305725,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5166
+Kelmarsh 6,2021-02-05 19:20:00,Gear oil inlet pressure,26.10757674947382,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5167
+Kelmarsh 6,2021-02-05 19:30:00,Gear oil inlet pressure,0.7920962050557138,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5168
+Kelmarsh 6,2021-02-05 19:40:00,Gear oil inlet pressure,53.89044109527032,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5169
+Kelmarsh 6,2021-02-05 19:50:00,Gear oil inlet pressure,30.192624258563736,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5170
+Kelmarsh 6,2021-02-05 20:00:00,Gear oil inlet pressure,0.3040182193120321,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5171
+Kelmarsh 6,2021-02-05 20:10:00,Gear oil inlet pressure,50.0876597550354,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5172
+Kelmarsh 6,2021-02-05 20:20:00,Gear oil inlet pressure,31.71267298758035,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5173
+Kelmarsh 6,2021-02-05 20:30:00,Gear oil inlet pressure,0.3891054339706897,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5174
+Kelmarsh 6,2021-02-05 20:40:00,Gear oil inlet pressure,53.26808452756987,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5175
+Kelmarsh 6,2021-02-05 20:50:00,Gear oil inlet pressure,23.507889090399985,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5176
+Kelmarsh 6,2021-02-05 21:00:00,Gear oil inlet pressure,0.327458981797099,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5177
+Kelmarsh 6,2021-02-05 21:10:00,Gear oil inlet pressure,48.80430438145994,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5178
+Kelmarsh 6,2021-02-05 21:20:00,Gear oil inlet pressure,28.273369870015557,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5179
+Kelmarsh 6,2021-02-05 21:30:00,Gear oil inlet pressure,0.4661233362398648,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5180
+Kelmarsh 6,2021-02-05 21:40:00,Gear oil inlet pressure,49.16655185902494,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5181
+Kelmarsh 6,2021-02-05 21:50:00,Gear oil inlet pressure,29.547425922893304,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5182
+Kelmarsh 6,2021-02-05 22:00:00,Gear oil inlet pressure,0.2772327057625119,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5183
+Kelmarsh 6,2021-02-05 22:10:00,Gear oil inlet pressure,49.03395087365064,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5184
+Kelmarsh 6,2021-02-05 22:20:00,Gear oil inlet pressure,29.477960010369607,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5185
+Kelmarsh 6,2021-02-05 22:30:00,Gear oil inlet pressure,0.1956370990527303,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5186
+Kelmarsh 6,2021-02-05 22:40:00,Gear oil inlet pressure,47.3086135663092,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5187
+Kelmarsh 6,2021-02-05 22:50:00,Gear oil inlet pressure,29.967498725652668,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5188
+Kelmarsh 6,2021-02-05 23:00:00,Gear oil inlet pressure,0.2169836649671196,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5189
+Kelmarsh 6,2021-02-05 23:10:00,Gear oil inlet pressure,44.29175335466861,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5190
+Kelmarsh 6,2021-02-05 23:20:00,Gear oil inlet pressure,28.901046031713435,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5191
+Kelmarsh 6,2021-02-05 23:30:00,Gear oil inlet pressure,0.2359048506245016,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5192
+Kelmarsh 6,2021-02-05 23:40:00,Gear oil inlet pressure,50.97200049757959,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5193
+Kelmarsh 6,2021-02-05 23:50:00,Gear oil inlet pressure,32.02899304255841,bar,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5194
+Kelmarsh 6,2021-02-05 00:00:00,Gear oil inlet temperature,56.05250034332276,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5051
+Kelmarsh 6,2021-02-05 00:10:00,Gear oil inlet temperature,56.14249897003173,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5052
+Kelmarsh 6,2021-02-05 00:20:00,Gear oil inlet temperature,56.12499809265137,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5053
+Kelmarsh 6,2021-02-05 00:30:00,Gear oil inlet temperature,55.99499988555908,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5054
+Kelmarsh 6,2021-02-05 00:40:00,Gear oil inlet temperature,55.6625005722046,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5055
+Kelmarsh 6,2021-02-05 00:50:00,Gear oil inlet temperature,55.71750011444093,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5056
+Kelmarsh 6,2021-02-05 01:00:00,Gear oil inlet temperature,55.68500022888185,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5057
+Kelmarsh 6,2021-02-05 01:10:00,Gear oil inlet temperature,55.41499996185303,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5058
+Kelmarsh 6,2021-02-05 01:20:00,Gear oil inlet temperature,54.08500003814697,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5059
+Kelmarsh 6,2021-02-05 01:30:00,Gear oil inlet temperature,54.89250049591065,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5060
+Kelmarsh 6,2021-02-05 01:40:00,Gear oil inlet temperature,55.28249988555906,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5061
+Kelmarsh 6,2021-02-05 01:50:00,Gear oil inlet temperature,55.15750064849856,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5062
+Kelmarsh 6,2021-02-05 02:00:00,Gear oil inlet temperature,55.2424995422363,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5063
+Kelmarsh 6,2021-02-05 02:10:00,Gear oil inlet temperature,54.81250076293946,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5064
+Kelmarsh 6,2021-02-05 02:20:00,Gear oil inlet temperature,54.70750064849854,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5065
+Kelmarsh 6,2021-02-05 02:30:00,Gear oil inlet temperature,54.73000068664551,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5066
+Kelmarsh 6,2021-02-05 02:40:00,Gear oil inlet temperature,54.27750015258789,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5067
+Kelmarsh 6,2021-02-05 02:50:00,Gear oil inlet temperature,54.137500381469735,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5068
+Kelmarsh 6,2021-02-05 03:00:00,Gear oil inlet temperature,54.03500061035155,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5069
+Kelmarsh 6,2021-02-05 03:10:00,Gear oil inlet temperature,53.860000419616696,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5070
+Kelmarsh 6,2021-02-05 03:20:00,Gear oil inlet temperature,53.64499950408936,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5071
+Kelmarsh 6,2021-02-05 03:30:00,Gear oil inlet temperature,54.16750030517579,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5072
+Kelmarsh 6,2021-02-05 03:40:00,Gear oil inlet temperature,54.21749992370607,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5073
+Kelmarsh 6,2021-02-05 03:50:00,Gear oil inlet temperature,54.2974992752075,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5074
+Kelmarsh 6,2021-02-05 04:00:00,Gear oil inlet temperature,54.27941131591796,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5075
+Kelmarsh 6,2021-02-05 04:10:00,Gear oil inlet temperature,54.23157842535719,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5076
+Kelmarsh 6,2021-02-05 04:20:00,Gear oil inlet temperature,53.83999977111815,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5077
+Kelmarsh 6,2021-02-05 04:30:00,Gear oil inlet temperature,53.87500076293944,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5078
+Kelmarsh 6,2021-02-05 04:40:00,Gear oil inlet temperature,54.06750049591066,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5079
+Kelmarsh 6,2021-02-05 04:50:00,Gear oil inlet temperature,54.33999977111815,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5080
+Kelmarsh 6,2021-02-05 05:00:00,Gear oil inlet temperature,54.38500003814696,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5081
+Kelmarsh 6,2021-02-05 05:10:00,Gear oil inlet temperature,53.9274995803833,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5082
+Kelmarsh 6,2021-02-05 05:20:00,Gear oil inlet temperature,53.182499694824216,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5083
+Kelmarsh 6,2021-02-05 05:30:00,Gear oil inlet temperature,54.41999988555908,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5084
+Kelmarsh 6,2021-02-05 05:40:00,Gear oil inlet temperature,54.47999973297118,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5085
+Kelmarsh 6,2021-02-05 05:50:00,Gear oil inlet temperature,54.39750003814697,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5086
+Kelmarsh 6,2021-02-05 06:00:00,Gear oil inlet temperature,54.53749923706054,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5087
+Kelmarsh 6,2021-02-05 06:10:00,Gear oil inlet temperature,54.37249965667725,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5088
+Kelmarsh 6,2021-02-05 06:20:00,Gear oil inlet temperature,53.88500022888184,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5089
+Kelmarsh 6,2021-02-05 06:30:00,Gear oil inlet temperature,53.882499885559085,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5090
+Kelmarsh 6,2021-02-05 06:40:00,Gear oil inlet temperature,53.42999935150145,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5091
+Kelmarsh 6,2021-02-05 06:50:00,Gear oil inlet temperature,53.75499992370605,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5092
+Kelmarsh 6,2021-02-05 07:00:00,Gear oil inlet temperature,53.49500045776368,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5093
+Kelmarsh 6,2021-02-05 07:10:00,Gear oil inlet temperature,52.503125190734856,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5094
+Kelmarsh 6,2021-02-05 07:20:00,Gear oil inlet temperature,52.64473724365234,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5095
+Kelmarsh 6,2021-02-05 07:30:00,Gear oil inlet temperature,53.238235473632805,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5096
+Kelmarsh 6,2021-02-05 07:40:00,Gear oil inlet temperature,53.12368392944337,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5097
+Kelmarsh 6,2021-02-05 07:50:00,Gear oil inlet temperature,53.18499984741211,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5098
+Kelmarsh 6,2021-02-05 08:00:00,Gear oil inlet temperature,53.18000011444094,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5099
+Kelmarsh 6,2021-02-05 08:10:00,Gear oil inlet temperature,53.00999984741211,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5100
+Kelmarsh 6,2021-02-05 08:20:00,Gear oil inlet temperature,52.38999919891357,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5101
+Kelmarsh 6,2021-02-05 08:30:00,Gear oil inlet temperature,50.86749992370606,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5102
+Kelmarsh 6,2021-02-05 08:40:00,Gear oil inlet temperature,50.2875,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5103
+Kelmarsh 6,2021-02-05 08:50:00,Gear oil inlet temperature,46.78749980926513,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5104
+Kelmarsh 6,2021-02-05 09:00:00,Gear oil inlet temperature,44.33750019073487,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5105
+Kelmarsh 6,2021-02-05 09:10:00,Gear oil inlet temperature,42.2349998474121,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5106
+Kelmarsh 6,2021-02-05 09:20:00,Gear oil inlet temperature,42.87500038146973,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5107
+Kelmarsh 6,2021-02-05 09:30:00,Gear oil inlet temperature,40.582500076293954,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5108
+Kelmarsh 6,2021-02-05 09:40:00,Gear oil inlet temperature,39.60749988555908,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5109
+Kelmarsh 6,2021-02-05 09:50:00,Gear oil inlet temperature,41.035000038146975,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5110
+Kelmarsh 6,2021-02-05 10:00:00,Gear oil inlet temperature,38.279999732971206,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5111
+Kelmarsh 6,2021-02-05 10:10:00,Gear oil inlet temperature,36.7725001335144,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5112
+Kelmarsh 6,2021-02-05 10:20:00,Gear oil inlet temperature,36.36499996185303,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5113
+Kelmarsh 6,2021-02-05 10:30:00,Gear oil inlet temperature,34.00000038146974,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5114
+Kelmarsh 6,2021-02-05 10:40:00,Gear oil inlet temperature,33.379999637603746,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5115
+Kelmarsh 6,2021-02-05 10:50:00,Gear oil inlet temperature,36.9599998474121,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5116
+Kelmarsh 6,2021-02-05 11:00:00,Gear oil inlet temperature,33.32999935150146,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5117
+Kelmarsh 6,2021-02-05 11:10:00,Gear oil inlet temperature,32.66250047683715,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5118
+Kelmarsh 6,2021-02-05 11:20:00,Gear oil inlet temperature,34.76750011444092,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5119
+Kelmarsh 6,2021-02-05 11:30:00,Gear oil inlet temperature,31.754999542236327,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5120
+Kelmarsh 6,2021-02-05 11:40:00,Gear oil inlet temperature,31.0349998474121,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5121
+Kelmarsh 6,2021-02-05 11:50:00,Gear oil inlet temperature,33.91500005722046,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5122
+Kelmarsh 6,2021-02-05 12:00:00,Gear oil inlet temperature,30.285000133514405,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5123
+Kelmarsh 6,2021-02-05 12:10:00,Gear oil inlet temperature,29.62000017166139,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5124
+Kelmarsh 6,2021-02-05 12:20:00,Gear oil inlet temperature,33.499999713897715,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5125
+Kelmarsh 6,2021-02-05 12:30:00,Gear oil inlet temperature,29.91000013351441,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5126
+Kelmarsh 6,2021-02-05 12:40:00,Gear oil inlet temperature,29.75749988555907,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5127
+Kelmarsh 6,2021-02-05 12:50:00,Gear oil inlet temperature,33.73000001907348,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5128
+Kelmarsh 6,2021-02-05 13:00:00,Gear oil inlet temperature,30.054999923706056,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5129
+Kelmarsh 6,2021-02-05 13:10:00,Gear oil inlet temperature,29.27999973297117,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5130
+Kelmarsh 6,2021-02-05 13:20:00,Gear oil inlet temperature,31.80499992370605,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5131
+Kelmarsh 6,2021-02-05 13:30:00,Gear oil inlet temperature,28.984999942779545,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5132
+Kelmarsh 6,2021-02-05 13:40:00,Gear oil inlet temperature,28.25000009536742,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5133
+Kelmarsh 6,2021-02-05 13:50:00,Gear oil inlet temperature,31.22250022888185,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5134
+Kelmarsh 6,2021-02-05 14:00:00,Gear oil inlet temperature,28.390000152587884,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5135
+Kelmarsh 6,2021-02-05 14:10:00,Gear oil inlet temperature,27.705000019073488,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5136
+Kelmarsh 6,2021-02-05 14:20:00,Gear oil inlet temperature,30.16000003814697,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5137
+Kelmarsh 6,2021-02-05 14:30:00,Gear oil inlet temperature,27.45000019073487,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5138
+Kelmarsh 6,2021-02-05 14:40:00,Gear oil inlet temperature,27.355000114440912,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5139
+Kelmarsh 6,2021-02-05 14:50:00,Gear oil inlet temperature,31.36250019073487,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5140
+Kelmarsh 6,2021-02-05 15:00:00,Gear oil inlet temperature,27.73999986648559,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5141
+Kelmarsh 6,2021-02-05 15:10:00,Gear oil inlet temperature,27.52250022888185,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5142
+Kelmarsh 6,2021-02-05 15:20:00,Gear oil inlet temperature,31.12249994277954,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5143
+Kelmarsh 6,2021-02-05 15:30:00,Gear oil inlet temperature,27.055000019073493,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5144
+Kelmarsh 6,2021-02-05 15:40:00,Gear oil inlet temperature,27.387499523162823,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5145
+Kelmarsh 6,2021-02-05 15:50:00,Gear oil inlet temperature,30.400000095367428,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5146
+Kelmarsh 6,2021-02-05 16:00:00,Gear oil inlet temperature,27.099999979922657,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5147
+Kelmarsh 6,2021-02-05 16:10:00,Gear oil inlet temperature,27.375,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5148
+Kelmarsh 6,2021-02-05 16:20:00,Gear oil inlet temperature,30.474999999999994,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5149
+Kelmarsh 6,2021-02-05 16:30:00,Gear oil inlet temperature,26.96750011444092,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5150
+Kelmarsh 6,2021-02-05 16:40:00,Gear oil inlet temperature,26.082500076293968,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5151
+Kelmarsh 6,2021-02-05 16:50:00,Gear oil inlet temperature,28.137500095367432,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5152
+Kelmarsh 6,2021-02-05 17:00:00,Gear oil inlet temperature,25.52249984741209,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5153
+Kelmarsh 6,2021-02-05 17:10:00,Gear oil inlet temperature,24.77750015258789,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5154
+Kelmarsh 6,2021-02-05 17:20:00,Gear oil inlet temperature,26.472500133514416,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5155
+Kelmarsh 6,2021-02-05 17:30:00,Gear oil inlet temperature,24.427499961853037,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5156
+Kelmarsh 6,2021-02-05 17:40:00,Gear oil inlet temperature,23.58249998092654,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5157
+Kelmarsh 6,2021-02-05 17:50:00,Gear oil inlet temperature,26.690000152587896,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5158
+Kelmarsh 6,2021-02-05 18:00:00,Gear oil inlet temperature,24.01250028610232,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5159
+Kelmarsh 6,2021-02-05 18:10:00,Gear oil inlet temperature,23.10500001907348,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5160
+Kelmarsh 6,2021-02-05 18:20:00,Gear oil inlet temperature,25.60500011444093,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5161
+Kelmarsh 6,2021-02-05 18:30:00,Gear oil inlet temperature,23.26499996185303,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5162
+Kelmarsh 6,2021-02-05 18:40:00,Gear oil inlet temperature,22.5199999809265,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5163
+Kelmarsh 6,2021-02-05 18:50:00,Gear oil inlet temperature,26.482499980926512,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5164
+Kelmarsh 6,2021-02-05 19:00:00,Gear oil inlet temperature,22.56250009536745,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5165
+Kelmarsh 6,2021-02-05 19:10:00,Gear oil inlet temperature,22.18750028610232,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5166
+Kelmarsh 6,2021-02-05 19:20:00,Gear oil inlet temperature,25.284999847412102,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5167
+Kelmarsh 6,2021-02-05 19:30:00,Gear oil inlet temperature,22.572500038146984,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5168
+Kelmarsh 6,2021-02-05 19:40:00,Gear oil inlet temperature,20.260000038146973,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5169
+Kelmarsh 6,2021-02-05 19:50:00,Gear oil inlet temperature,24.176315909937813,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5170
+Kelmarsh 6,2021-02-05 20:00:00,Gear oil inlet temperature,20.69523847670785,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5171
+Kelmarsh 6,2021-02-05 20:10:00,Gear oil inlet temperature,20.234210717050672,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5172
+Kelmarsh 6,2021-02-05 20:20:00,Gear oil inlet temperature,23.120000076293948,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5173
+Kelmarsh 6,2021-02-05 20:30:00,Gear oil inlet temperature,20.134999942779544,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5174
+Kelmarsh 6,2021-02-05 20:40:00,Gear oil inlet temperature,19.288095110938656,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5175
+Kelmarsh 6,2021-02-05 20:50:00,Gear oil inlet temperature,23.82631582962841,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5176
+Kelmarsh 6,2021-02-05 21:00:00,Gear oil inlet temperature,20.649999999999995,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5177
+Kelmarsh 6,2021-02-05 21:10:00,Gear oil inlet temperature,19.680000114440915,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5178
+Kelmarsh 6,2021-02-05 21:20:00,Gear oil inlet temperature,23.79047611781529,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5179
+Kelmarsh 6,2021-02-05 21:30:00,Gear oil inlet temperature,20.06578947368422,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5180
+Kelmarsh 6,2021-02-05 21:40:00,Gear oil inlet temperature,18.94749979972841,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5181
+Kelmarsh 6,2021-02-05 21:50:00,Gear oil inlet temperature,23.690476099650063,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5182
+Kelmarsh 6,2021-02-05 22:00:00,Gear oil inlet temperature,20.426315909937813,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5183
+Kelmarsh 6,2021-02-05 22:10:00,Gear oil inlet temperature,19.56500024795536,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5184
+Kelmarsh 6,2021-02-05 22:20:00,Gear oil inlet temperature,23.704761959257585,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5185
+Kelmarsh 6,2021-02-05 22:30:00,Gear oil inlet temperature,20.62105269181101,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5186
+Kelmarsh 6,2021-02-05 22:40:00,Gear oil inlet temperature,19.77250022888186,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5187
+Kelmarsh 6,2021-02-05 22:50:00,Gear oil inlet temperature,24.32499971389769,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5188
+Kelmarsh 6,2021-02-05 23:00:00,Gear oil inlet temperature,20.649999999999995,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5189
+Kelmarsh 6,2021-02-05 23:10:00,Gear oil inlet temperature,20.33250017166137,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5190
+Kelmarsh 6,2021-02-05 23:20:00,Gear oil inlet temperature,24.225,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5191
+Kelmarsh 6,2021-02-05 23:30:00,Gear oil inlet temperature,20.662500095367427,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5192
+Kelmarsh 6,2021-02-05 23:40:00,Gear oil inlet temperature,19.642500019073488,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5193
+Kelmarsh 6,2021-02-05 23:50:00,Gear oil inlet temperature,23.227500152587893,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5194
+Kelmarsh 6,2021-02-05 00:00:00,Gear oil temperature,57.507500648498535,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5051
+Kelmarsh 6,2021-02-05 00:10:00,Gear oil temperature,57.279999351501466,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5052
+Kelmarsh 6,2021-02-05 00:20:00,Gear oil temperature,57.09749851226808,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5053
+Kelmarsh 6,2021-02-05 00:30:00,Gear oil temperature,57.00249996185303,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5054
+Kelmarsh 6,2021-02-05 00:40:00,Gear oil temperature,56.83750019073487,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5055
+Kelmarsh 6,2021-02-05 00:50:00,Gear oil temperature,56.647500038146994,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5056
+Kelmarsh 6,2021-02-05 01:00:00,Gear oil temperature,56.60499877929688,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5057
+Kelmarsh 6,2021-02-05 01:10:00,Gear oil temperature,56.39749984741211,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5058
+Kelmarsh 6,2021-02-05 01:20:00,Gear oil temperature,56.16249904632567,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5059
+Kelmarsh 6,2021-02-05 01:30:00,Gear oil temperature,56.34000034332274,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5060
+Kelmarsh 6,2021-02-05 01:40:00,Gear oil temperature,56.17249851226806,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5061
+Kelmarsh 6,2021-02-05 01:50:00,Gear oil temperature,56.08749866485596,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5062
+Kelmarsh 6,2021-02-05 02:00:00,Gear oil temperature,56.08499870300293,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5063
+Kelmarsh 6,2021-02-05 02:10:00,Gear oil temperature,55.80000095367432,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5064
+Kelmarsh 6,2021-02-05 02:20:00,Gear oil temperature,55.700000762939474,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5065
+Kelmarsh 6,2021-02-05 02:30:00,Gear oil temperature,55.660000038147,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5066
+Kelmarsh 6,2021-02-05 02:40:00,Gear oil temperature,55.45249977111816,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5067
+Kelmarsh 6,2021-02-05 02:50:00,Gear oil temperature,55.22499980926513,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5068
+Kelmarsh 6,2021-02-05 03:00:00,Gear oil temperature,55.10749969482422,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5069
+Kelmarsh 6,2021-02-05 03:10:00,Gear oil temperature,55.34999980926513,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5070
+Kelmarsh 6,2021-02-05 03:20:00,Gear oil temperature,55.25499992370603,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5071
+Kelmarsh 6,2021-02-05 03:30:00,Gear oil temperature,55.18500041961672,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5072
+Kelmarsh 6,2021-02-05 03:40:00,Gear oil temperature,55.19000053405764,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5073
+Kelmarsh 6,2021-02-05 03:50:00,Gear oil temperature,55.15500030517581,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5074
+Kelmarsh 6,2021-02-05 04:00:00,Gear oil temperature,55.12352864882526,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5075
+Kelmarsh 6,2021-02-05 04:10:00,Gear oil temperature,55.042104620682565,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5076
+Kelmarsh 6,2021-02-05 04:20:00,Gear oil temperature,54.932501029968265,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5077
+Kelmarsh 6,2021-02-05 04:30:00,Gear oil temperature,54.90750141143798,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5078
+Kelmarsh 6,2021-02-05 04:40:00,Gear oil temperature,55.09250030517579,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5079
+Kelmarsh 6,2021-02-05 04:50:00,Gear oil temperature,55.30499916076658,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5080
+Kelmarsh 6,2021-02-05 05:00:00,Gear oil temperature,55.37000045776366,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5081
+Kelmarsh 6,2021-02-05 05:10:00,Gear oil temperature,55.547499084472655,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5082
+Kelmarsh 6,2021-02-05 05:20:00,Gear oil temperature,55.38249950408935,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5083
+Kelmarsh 6,2021-02-05 05:30:00,Gear oil temperature,55.38750114440917,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5084
+Kelmarsh 6,2021-02-05 05:40:00,Gear oil temperature,55.35000019073485,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5085
+Kelmarsh 6,2021-02-05 05:50:00,Gear oil temperature,55.25499992370603,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5086
+Kelmarsh 6,2021-02-05 06:00:00,Gear oil temperature,55.25749988555907,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5087
+Kelmarsh 6,2021-02-05 06:10:00,Gear oil temperature,55.085000038146994,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5088
+Kelmarsh 6,2021-02-05 06:20:00,Gear oil temperature,54.91000137329102,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5089
+Kelmarsh 6,2021-02-05 06:30:00,Gear oil temperature,54.68750076293948,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5090
+Kelmarsh 6,2021-02-05 06:40:00,Gear oil temperature,54.65500030517579,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5091
+Kelmarsh 6,2021-02-05 06:50:00,Gear oil temperature,54.65500011444094,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5092
+Kelmarsh 6,2021-02-05 07:00:00,Gear oil temperature,54.51749973297118,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5093
+Kelmarsh 6,2021-02-05 07:10:00,Gear oil temperature,54.43750023841858,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5094
+Kelmarsh 6,2021-02-05 07:20:00,Gear oil temperature,54.17894764950403,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5095
+Kelmarsh 6,2021-02-05 07:30:00,Gear oil temperature,54.06470579259537,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5096
+Kelmarsh 6,2021-02-05 07:40:00,Gear oil temperature,54.00263153879266,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5097
+Kelmarsh 6,2021-02-05 07:50:00,Gear oil temperature,54.01499977111816,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5098
+Kelmarsh 6,2021-02-05 08:00:00,Gear oil temperature,53.8850004196167,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5099
+Kelmarsh 6,2021-02-05 08:10:00,Gear oil temperature,53.7249988555908,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5100
+Kelmarsh 6,2021-02-05 08:20:00,Gear oil temperature,53.4649995803833,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5101
+Kelmarsh 6,2021-02-05 08:30:00,Gear oil temperature,52.48250045776366,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5102
+Kelmarsh 6,2021-02-05 08:40:00,Gear oil temperature,51.79500026702881,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5103
+Kelmarsh 6,2021-02-05 08:50:00,Gear oil temperature,50.124999809265134,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5104
+Kelmarsh 6,2021-02-05 09:00:00,Gear oil temperature,48.365000534057614,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5105
+Kelmarsh 6,2021-02-05 09:10:00,Gear oil temperature,47.59250049591067,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5106
+Kelmarsh 6,2021-02-05 09:20:00,Gear oil temperature,47.8225004196167,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5107
+Kelmarsh 6,2021-02-05 09:30:00,Gear oil temperature,46.895000076293954,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5108
+Kelmarsh 6,2021-02-05 09:40:00,Gear oil temperature,45.77250003814697,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5109
+Kelmarsh 6,2021-02-05 09:50:00,Gear oil temperature,45.70749988555907,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5110
+Kelmarsh 6,2021-02-05 10:00:00,Gear oil temperature,45.03500061035157,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5111
+Kelmarsh 6,2021-02-05 10:10:00,Gear oil temperature,44.175,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5112
+Kelmarsh 6,2021-02-05 10:20:00,Gear oil temperature,43.18999958038329,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5113
+Kelmarsh 6,2021-02-05 10:30:00,Gear oil temperature,42.8224998474121,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5114
+Kelmarsh 6,2021-02-05 10:40:00,Gear oil temperature,41.66749992370605,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5115
+Kelmarsh 6,2021-02-05 10:50:00,Gear oil temperature,41.99249992370605,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5116
+Kelmarsh 6,2021-02-05 11:00:00,Gear oil temperature,41.572499656677245,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5117
+Kelmarsh 6,2021-02-05 11:10:00,Gear oil temperature,41.3699996948242,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5118
+Kelmarsh 6,2021-02-05 11:20:00,Gear oil temperature,40.35249958038331,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5119
+Kelmarsh 6,2021-02-05 11:30:00,Gear oil temperature,40.00000019073487,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5120
+Kelmarsh 6,2021-02-05 11:40:00,Gear oil temperature,39.35999946594235,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5121
+Kelmarsh 6,2021-02-05 11:50:00,Gear oil temperature,39.5724998474121,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5122
+Kelmarsh 6,2021-02-05 12:00:00,Gear oil temperature,39.47999954223632,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5123
+Kelmarsh 6,2021-02-05 12:10:00,Gear oil temperature,38.84000015258788,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5124
+Kelmarsh 6,2021-02-05 12:20:00,Gear oil temperature,37.9400001525879,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5125
+Kelmarsh 6,2021-02-05 12:30:00,Gear oil temperature,37.82999992370605,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5126
+Kelmarsh 6,2021-02-05 12:40:00,Gear oil temperature,37.96000003814699,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5127
+Kelmarsh 6,2021-02-05 12:50:00,Gear oil temperature,38.087499618530266,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5128
+Kelmarsh 6,2021-02-05 13:00:00,Gear oil temperature,37.46000003814698,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5129
+Kelmarsh 6,2021-02-05 13:10:00,Gear oil temperature,36.46499958038328,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5130
+Kelmarsh 6,2021-02-05 13:20:00,Gear oil temperature,36.09499950408936,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5131
+Kelmarsh 6,2021-02-05 13:30:00,Gear oil temperature,35.90000133514404,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5132
+Kelmarsh 6,2021-02-05 13:40:00,Gear oil temperature,35.47250080108644,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5133
+Kelmarsh 6,2021-02-05 13:50:00,Gear oil temperature,34.65000019073488,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5134
+Kelmarsh 6,2021-02-05 14:00:00,Gear oil temperature,34.797500228881844,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5135
+Kelmarsh 6,2021-02-05 14:10:00,Gear oil temperature,34.54999980926516,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5136
+Kelmarsh 6,2021-02-05 14:20:00,Gear oil temperature,33.66000041961671,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5137
+Kelmarsh 6,2021-02-05 14:30:00,Gear oil temperature,33.68499870300292,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5138
+Kelmarsh 6,2021-02-05 14:40:00,Gear oil temperature,33.37999925613403,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5139
+Kelmarsh 6,2021-02-05 14:50:00,Gear oil temperature,33.56999969482421,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5140
+Kelmarsh 6,2021-02-05 15:00:00,Gear oil temperature,33.69999961853025,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5141
+Kelmarsh 6,2021-02-05 15:10:00,Gear oil temperature,33.37999944686889,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5142
+Kelmarsh 6,2021-02-05 15:20:00,Gear oil temperature,33.3499994277954,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5143
+Kelmarsh 6,2021-02-05 15:30:00,Gear oil temperature,33.339999580383264,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5144
+Kelmarsh 6,2021-02-05 15:40:00,Gear oil temperature,32.9724997520447,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5145
+Kelmarsh 6,2021-02-05 15:50:00,Gear oil temperature,33.30312490463258,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5146
+Kelmarsh 6,2021-02-05 16:00:00,Gear oil temperature,32.94473728380705,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5147
+Kelmarsh 6,2021-02-05 16:10:00,Gear oil temperature,32.469444698757584,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5148
+Kelmarsh 6,2021-02-05 16:20:00,Gear oil temperature,32.61250019073486,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5149
+Kelmarsh 6,2021-02-05 16:30:00,Gear oil temperature,32.48500080108643,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5150
+Kelmarsh 6,2021-02-05 16:40:00,Gear oil temperature,32.1925005912781,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5151
+Kelmarsh 6,2021-02-05 16:50:00,Gear oil temperature,31.009999942779523,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5152
+Kelmarsh 6,2021-02-05 17:00:00,Gear oil temperature,30.992499923706056,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5153
+Kelmarsh 6,2021-02-05 17:10:00,Gear oil temperature,30.68249969482421,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5154
+Kelmarsh 6,2021-02-05 17:20:00,Gear oil temperature,30.0625,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5155
+Kelmarsh 6,2021-02-05 17:30:00,Gear oil temperature,29.795000267028843,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5156
+Kelmarsh 6,2021-02-05 17:40:00,Gear oil temperature,29.637500667572045,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5157
+Kelmarsh 6,2021-02-05 17:50:00,Gear oil temperature,29.440000152587885,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5158
+Kelmarsh 6,2021-02-05 18:00:00,Gear oil temperature,29.34749937057494,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5159
+Kelmarsh 6,2021-02-05 18:10:00,Gear oil temperature,29.205000209808368,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5160
+Kelmarsh 6,2021-02-05 18:20:00,Gear oil temperature,28.47750015258788,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5161
+Kelmarsh 6,2021-02-05 18:30:00,Gear oil temperature,28.30749950408933,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5162
+Kelmarsh 6,2021-02-05 18:40:00,Gear oil temperature,28.81500005722046,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5163
+Kelmarsh 6,2021-02-05 18:50:00,Gear oil temperature,28.94999990463257,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5164
+Kelmarsh 6,2021-02-05 19:00:00,Gear oil temperature,28.499999523162813,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5165
+Kelmarsh 6,2021-02-05 19:10:00,Gear oil temperature,28.849999713897702,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5166
+Kelmarsh 6,2021-02-05 19:20:00,Gear oil temperature,29.04999980926512,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5167
+Kelmarsh 6,2021-02-05 19:30:00,Gear oil temperature,28.24000024795533,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5168
+Kelmarsh 6,2021-02-05 19:40:00,Gear oil temperature,27.85000009536742,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5169
+Kelmarsh 6,2021-02-05 19:50:00,Gear oil temperature,27.46999988555908,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5170
+Kelmarsh 6,2021-02-05 20:00:00,Gear oil temperature,27.210000228881835,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5171
+Kelmarsh 6,2021-02-05 20:10:00,Gear oil temperature,27.665000152587886,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5172
+Kelmarsh 6,2021-02-05 20:20:00,Gear oil temperature,27.04750022888184,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5173
+Kelmarsh 6,2021-02-05 20:30:00,Gear oil temperature,26.50250005722047,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5174
+Kelmarsh 6,2021-02-05 20:40:00,Gear oil temperature,26.980000114440934,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5175
+Kelmarsh 6,2021-02-05 20:50:00,Gear oil temperature,27.1,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5176
+Kelmarsh 6,2021-02-05 21:00:00,Gear oil temperature,26.20250062942509,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5177
+Kelmarsh 6,2021-02-05 21:10:00,Gear oil temperature,26.6975004196167,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5178
+Kelmarsh 6,2021-02-05 21:20:00,Gear oil temperature,27.14500026702883,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5179
+Kelmarsh 6,2021-02-05 21:30:00,Gear oil temperature,26.155000305175797,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5180
+Kelmarsh 6,2021-02-05 21:40:00,Gear oil temperature,26.14750032424929,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5181
+Kelmarsh 6,2021-02-05 21:50:00,Gear oil temperature,25.4850001335144,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5182
+Kelmarsh 6,2021-02-05 22:00:00,Gear oil temperature,25.36499996185301,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5183
+Kelmarsh 6,2021-02-05 22:10:00,Gear oil temperature,25.68999986648558,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5184
+Kelmarsh 6,2021-02-05 22:20:00,Gear oil temperature,26.372500038146985,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5185
+Kelmarsh 6,2021-02-05 22:30:00,Gear oil temperature,25.007500267028806,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5186
+Kelmarsh 6,2021-02-05 22:40:00,Gear oil temperature,24.950000381469728,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5187
+Kelmarsh 6,2021-02-05 22:50:00,Gear oil temperature,24.670000076293967,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5188
+Kelmarsh 6,2021-02-05 23:00:00,Gear oil temperature,24.585000324249272,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5189
+Kelmarsh 6,2021-02-05 23:10:00,Gear oil temperature,24.824999618530278,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5190
+Kelmarsh 6,2021-02-05 23:20:00,Gear oil temperature,24.669999885559104,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5191
+Kelmarsh 6,2021-02-05 23:30:00,Gear oil temperature,24.40249967575071,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5192
+Kelmarsh 6,2021-02-05 23:40:00,Gear oil temperature,24.529999828338628,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5193
+Kelmarsh 6,2021-02-05 23:50:00,Gear oil temperature,24.76500015258789,°C,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5194
+Kelmarsh 6,2021-02-05 00:00:00,Gearbox speed,1100.3008289337156,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5051
+Kelmarsh 6,2021-02-05 00:10:00,Gearbox speed,1103.9278221130385,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5052
+Kelmarsh 6,2021-02-05 00:20:00,Gearbox speed,1079.1944618225104,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5053
+Kelmarsh 6,2021-02-05 00:30:00,Gearbox speed,1080.5391769409184,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5054
+Kelmarsh 6,2021-02-05 00:40:00,Gearbox speed,1073.151494979858,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5055
+Kelmarsh 6,2021-02-05 00:50:00,Gearbox speed,1092.090053558351,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5056
+Kelmarsh 6,2021-02-05 01:00:00,Gearbox speed,1098.1249694824232,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5057
+Kelmarsh 6,2021-02-05 01:10:00,Gearbox speed,1085.0181884765618,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5058
+Kelmarsh 6,2021-02-05 01:20:00,Gearbox speed,1101.1046962738044,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5059
+Kelmarsh 6,2021-02-05 01:30:00,Gearbox speed,1100.393377304077,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5060
+Kelmarsh 6,2021-02-05 01:40:00,Gearbox speed,1116.739294052123,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5061
+Kelmarsh 6,2021-02-05 01:50:00,Gearbox speed,1089.776762008668,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5062
+Kelmarsh 6,2021-02-05 02:00:00,Gearbox speed,1095.7442665100093,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5063
+Kelmarsh 6,2021-02-05 02:10:00,Gearbox speed,1073.4765758514409,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5064
+Kelmarsh 6,2021-02-05 02:20:00,Gearbox speed,1090.962306976319,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5065
+Kelmarsh 6,2021-02-05 02:30:00,Gearbox speed,1072.8703422546369,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5066
+Kelmarsh 6,2021-02-05 02:40:00,Gearbox speed,1071.119619369507,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5067
+Kelmarsh 6,2021-02-05 02:50:00,Gearbox speed,1071.1535625457766,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5068
+Kelmarsh 6,2021-02-05 03:00:00,Gearbox speed,1070.3716907501214,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5069
+Kelmarsh 6,2021-02-05 03:10:00,Gearbox speed,1071.0426464080815,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5070
+Kelmarsh 6,2021-02-05 03:20:00,Gearbox speed,1070.6777572631852,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5071
+Kelmarsh 6,2021-02-05 03:30:00,Gearbox speed,1071.028661727904,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5072
+Kelmarsh 6,2021-02-05 03:40:00,Gearbox speed,1070.8436393737786,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5073
+Kelmarsh 6,2021-02-05 03:50:00,Gearbox speed,1071.6759510040283,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5074
+Kelmarsh 6,2021-02-05 04:00:00,Gearbox speed,1070.8888805613806,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5075
+Kelmarsh 6,2021-02-05 04:10:00,Gearbox speed,1071.1125845658148,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5076
+Kelmarsh 6,2021-02-05 04:20:00,Gearbox speed,1070.9358615875242,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5077
+Kelmarsh 6,2021-02-05 04:30:00,Gearbox speed,1071.1691322326656,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5078
+Kelmarsh 6,2021-02-05 04:40:00,Gearbox speed,1086.116586685181,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5079
+Kelmarsh 6,2021-02-05 04:50:00,Gearbox speed,1082.8558959960935,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5080
+Kelmarsh 6,2021-02-05 05:00:00,Gearbox speed,1074.8235569000242,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5081
+Kelmarsh 6,2021-02-05 05:10:00,Gearbox speed,1071.418802261352,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5082
+Kelmarsh 6,2021-02-05 05:20:00,Gearbox speed,1079.0217361450202,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5083
+Kelmarsh 6,2021-02-05 05:30:00,Gearbox speed,1110.9856224060054,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5084
+Kelmarsh 6,2021-02-05 05:40:00,Gearbox speed,1125.226850509644,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5085
+Kelmarsh 6,2021-02-05 05:50:00,Gearbox speed,1125.2355709075937,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5086
+Kelmarsh 6,2021-02-05 06:00:00,Gearbox speed,1117.7409324645994,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5087
+Kelmarsh 6,2021-02-05 06:10:00,Gearbox speed,1102.2381420135491,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5088
+Kelmarsh 6,2021-02-05 06:20:00,Gearbox speed,1103.9158687591553,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5089
+Kelmarsh 6,2021-02-05 06:30:00,Gearbox speed,1109.1021938323984,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5090
+Kelmarsh 6,2021-02-05 06:40:00,Gearbox speed,1132.5809783935547,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5091
+Kelmarsh 6,2021-02-05 06:50:00,Gearbox speed,1126.233432769775,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5092
+Kelmarsh 6,2021-02-05 07:00:00,Gearbox speed,1110.2560214996342,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5093
+Kelmarsh 6,2021-02-05 07:10:00,Gearbox speed,1089.9409818649287,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5094
+Kelmarsh 6,2021-02-05 07:20:00,Gearbox speed,1072.9645819413026,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5095
+Kelmarsh 6,2021-02-05 07:30:00,Gearbox speed,1071.3366878733912,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5096
+Kelmarsh 6,2021-02-05 07:40:00,Gearbox speed,1071.4468122783464,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5097
+Kelmarsh 6,2021-02-05 07:50:00,Gearbox speed,1071.4596233367909,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5098
+Kelmarsh 6,2021-02-05 08:00:00,Gearbox speed,1072.6026134490971,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5099
+Kelmarsh 6,2021-02-05 08:10:00,Gearbox speed,1073.4210090637202,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5100
+Kelmarsh 6,2021-02-05 08:20:00,Gearbox speed,812.7737864255903,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5101
+Kelmarsh 6,2021-02-05 08:30:00,Gearbox speed,333.13416685396817,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5102
+Kelmarsh 6,2021-02-05 08:40:00,Gearbox speed,272.40618368983286,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5103
+Kelmarsh 6,2021-02-05 08:50:00,Gearbox speed,6.473569261841476,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5104
+Kelmarsh 6,2021-02-05 09:00:00,Gearbox speed,4.648486057296391,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5105
+Kelmarsh 6,2021-02-05 09:10:00,Gearbox speed,2.373135457746684,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5106
+Kelmarsh 6,2021-02-05 09:20:00,Gearbox speed,3.688077385537325,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5107
+Kelmarsh 6,2021-02-05 09:30:00,Gearbox speed,2.3632499710656694,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5108
+Kelmarsh 6,2021-02-05 09:40:00,Gearbox speed,2.706395605229771,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5109
+Kelmarsh 6,2021-02-05 09:50:00,Gearbox speed,2.834577511064708,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5110
+Kelmarsh 6,2021-02-05 10:00:00,Gearbox speed,3.163529120385648,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5111
+Kelmarsh 6,2021-02-05 10:10:00,Gearbox speed,4.427222918719055,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5112
+Kelmarsh 6,2021-02-05 10:20:00,Gearbox speed,4.169797205831854,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5113
+Kelmarsh 6,2021-02-05 10:30:00,Gearbox speed,7.388983916491272,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5114
+Kelmarsh 6,2021-02-05 10:40:00,Gearbox speed,3.8066129051148847,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5115
+Kelmarsh 6,2021-02-05 10:50:00,Gearbox speed,2.923472035210581,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5116
+Kelmarsh 6,2021-02-05 11:00:00,Gearbox speed,4.072498838882893,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5117
+Kelmarsh 6,2021-02-05 11:10:00,Gearbox speed,7.187456336687316,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5118
+Kelmarsh 6,2021-02-05 11:20:00,Gearbox speed,5.739323627203705,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5119
+Kelmarsh 6,2021-02-05 11:30:00,Gearbox speed,2.6718176286667568,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5120
+Kelmarsh 6,2021-02-05 11:40:00,Gearbox speed,4.5859719151631015,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5121
+Kelmarsh 6,2021-02-05 11:50:00,Gearbox speed,7.283300559036434,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5122
+Kelmarsh 6,2021-02-05 12:00:00,Gearbox speed,6.35395831248024,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5123
+Kelmarsh 6,2021-02-05 12:10:00,Gearbox speed,4.215796320000666,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5124
+Kelmarsh 6,2021-02-05 12:20:00,Gearbox speed,3.5091682607308075,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5125
+Kelmarsh 6,2021-02-05 12:30:00,Gearbox speed,5.404806587845089,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5126
+Kelmarsh 6,2021-02-05 12:40:00,Gearbox speed,4.577126909047369,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5127
+Kelmarsh 6,2021-02-05 12:50:00,Gearbox speed,6.133167855441564,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5128
+Kelmarsh 6,2021-02-05 13:00:00,Gearbox speed,6.137205705977977,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5129
+Kelmarsh 6,2021-02-05 13:10:00,Gearbox speed,2.079084961675107,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5130
+Kelmarsh 6,2021-02-05 13:20:00,Gearbox speed,2.7640066947788022,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5131
+Kelmarsh 6,2021-02-05 13:30:00,Gearbox speed,2.9337231527315435,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5132
+Kelmarsh 6,2021-02-05 13:40:00,Gearbox speed,5.934222129173572,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5133
+Kelmarsh 6,2021-02-05 13:50:00,Gearbox speed,4.770007292507215,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5134
+Kelmarsh 6,2021-02-05 14:00:00,Gearbox speed,4.834119312465189,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5135
+Kelmarsh 6,2021-02-05 14:10:00,Gearbox speed,2.8634669242892405,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5136
+Kelmarsh 6,2021-02-05 14:20:00,Gearbox speed,1.6999538432573904,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5137
+Kelmarsh 6,2021-02-05 14:30:00,Gearbox speed,3.011096172966062,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5138
+Kelmarsh 6,2021-02-05 14:40:00,Gearbox speed,2.556928462232462,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5139
+Kelmarsh 6,2021-02-05 14:50:00,Gearbox speed,2.806727081537246,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5140
+Kelmarsh 6,2021-02-05 15:00:00,Gearbox speed,2.7600479187676674,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5141
+Kelmarsh 6,2021-02-05 15:10:00,Gearbox speed,4.271127972286197,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5142
+Kelmarsh 6,2021-02-05 15:20:00,Gearbox speed,2.891828131629156,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5143
+Kelmarsh 6,2021-02-05 15:30:00,Gearbox speed,3.8177903071045862,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5144
+Kelmarsh 6,2021-02-05 15:40:00,Gearbox speed,6.382377747679126,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5145
+Kelmarsh 6,2021-02-05 15:50:00,Gearbox speed,1.9939454636187284,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5146
+Kelmarsh 6,2021-02-05 16:00:00,Gearbox speed,2.446554681335233,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5147
+Kelmarsh 6,2021-02-05 16:10:00,Gearbox speed,2.842408927778404,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5148
+Kelmarsh 6,2021-02-05 16:20:00,Gearbox speed,5.880173698067664,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5149
+Kelmarsh 6,2021-02-05 16:30:00,Gearbox speed,0.858608688460663,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5150
+Kelmarsh 6,2021-02-05 16:40:00,Gearbox speed,0.654008156619966,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5151
+Kelmarsh 6,2021-02-05 16:50:00,Gearbox speed,0.517355122603476,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5152
+Kelmarsh 6,2021-02-05 17:00:00,Gearbox speed,2.5417990596033624,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5153
+Kelmarsh 6,2021-02-05 17:10:00,Gearbox speed,1.2105887308716776,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5154
+Kelmarsh 6,2021-02-05 17:20:00,Gearbox speed,0.5587170909857377,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5155
+Kelmarsh 6,2021-02-05 17:30:00,Gearbox speed,0.3757151101017369,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5156
+Kelmarsh 6,2021-02-05 17:40:00,Gearbox speed,0.9858367127599196,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5157
+Kelmarsh 6,2021-02-05 17:50:00,Gearbox speed,1.7894937812816356,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5158
+Kelmarsh 6,2021-02-05 18:00:00,Gearbox speed,1.6149999252520495,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5159
+Kelmarsh 6,2021-02-05 18:10:00,Gearbox speed,0.3607590836472808,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5160
+Kelmarsh 6,2021-02-05 18:20:00,Gearbox speed,0.8906836691312495,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5161
+Kelmarsh 6,2021-02-05 18:30:00,Gearbox speed,2.6482354849576906,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5162
+Kelmarsh 6,2021-02-05 18:40:00,Gearbox speed,7.0993142975494266,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5163
+Kelmarsh 6,2021-02-05 18:50:00,Gearbox speed,8.414551053196192,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5164
+Kelmarsh 6,2021-02-05 19:00:00,Gearbox speed,5.23523647058755,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5165
+Kelmarsh 6,2021-02-05 19:10:00,Gearbox speed,6.098422743380072,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5166
+Kelmarsh 6,2021-02-05 19:20:00,Gearbox speed,3.626496242824941,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5167
+Kelmarsh 6,2021-02-05 19:30:00,Gearbox speed,7.010782546713015,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5168
+Kelmarsh 6,2021-02-05 19:40:00,Gearbox speed,3.804781788960097,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5169
+Kelmarsh 6,2021-02-05 19:50:00,Gearbox speed,8.134730556397697,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5170
+Kelmarsh 6,2021-02-05 20:00:00,Gearbox speed,3.8341352320276223,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5171
+Kelmarsh 6,2021-02-05 20:10:00,Gearbox speed,7.523202285636214,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5172
+Kelmarsh 6,2021-02-05 20:20:00,Gearbox speed,8.389194785384465,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5173
+Kelmarsh 6,2021-02-05 20:30:00,Gearbox speed,5.331155913881957,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5174
+Kelmarsh 6,2021-02-05 20:40:00,Gearbox speed,7.140450021252033,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5175
+Kelmarsh 6,2021-02-05 20:50:00,Gearbox speed,5.140402623452237,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5176
+Kelmarsh 6,2021-02-05 21:00:00,Gearbox speed,2.944833015091717,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5177
+Kelmarsh 6,2021-02-05 21:10:00,Gearbox speed,5.005844421219082,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5178
+Kelmarsh 6,2021-02-05 21:20:00,Gearbox speed,5.415553129278123,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5179
+Kelmarsh 6,2021-02-05 21:30:00,Gearbox speed,4.879209933802484,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5180
+Kelmarsh 6,2021-02-05 21:40:00,Gearbox speed,4.397035944275556,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5181
+Kelmarsh 6,2021-02-05 21:50:00,Gearbox speed,1.951110840775072,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5182
+Kelmarsh 6,2021-02-05 22:00:00,Gearbox speed,2.62993299239315,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5183
+Kelmarsh 6,2021-02-05 22:10:00,Gearbox speed,4.8002015158999685,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5184
+Kelmarsh 6,2021-02-05 22:20:00,Gearbox speed,1.6174692870117728,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5185
+Kelmarsh 6,2021-02-05 22:30:00,Gearbox speed,2.361803564708678,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5186
+Kelmarsh 6,2021-02-05 22:40:00,Gearbox speed,1.3277468753512949,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5187
+Kelmarsh 6,2021-02-05 22:50:00,Gearbox speed,1.7049278301419686,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5188
+Kelmarsh 6,2021-02-05 23:00:00,Gearbox speed,1.8687238362617795,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5189
+Kelmarsh 6,2021-02-05 23:10:00,Gearbox speed,1.9120589476078749,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5190
+Kelmarsh 6,2021-02-05 23:20:00,Gearbox speed,1.0529012396000328,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5191
+Kelmarsh 6,2021-02-05 23:30:00,Gearbox speed,2.8940682001411893,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5192
+Kelmarsh 6,2021-02-05 23:40:00,Gearbox speed,11.736315473914148,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5193
+Kelmarsh 6,2021-02-05 23:50:00,Gearbox speed,6.663367263972762,RPM,gearbox,Turbine_Data_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,5194

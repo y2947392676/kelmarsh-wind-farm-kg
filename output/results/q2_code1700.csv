@@ -1,0 +1,4 @@
+﻿turbine,event_id,status,start,end,duration,code,message,source_file,source_line
+Kelmarsh 6,event:Kelmarsh_6:L593,Warning,2021-01-21 08:08:49,2021-01-21 08:39:04,00:30:15,1700,High temp. gear bearing 1,Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,593
+Kelmarsh 6,event:Kelmarsh_6:L1661,Warning,2021-03-27 05:18:50,2021-03-27 06:27:02,01:08:12,1700,High temp. gear bearing 1,Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,1661
+Kelmarsh 6,event:Kelmarsh_6:L13351,Warning,2021-12-03 06:21:34,2021-12-03 06:42:18,00:20:44,1700,High temp. gear bearing 1,Status_Kelmarsh_6_2021-01-01_-_2022-01-01_233.csv,13351
