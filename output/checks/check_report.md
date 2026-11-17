@@ -71,4 +71,4 @@ Graph built at 2026-11-16T10:56:56+00:00 from `D:\Antigravity\项目优化\kelma
 
 50 facts (seed 42, stratified by relationship) were re-read from the cited source line: 50/50 match automatically.
 
-Manual check by a person (`human_verdict` in `fact_verification_sample.csv`): 0/50 filled; 0 marked correct, 0 marked wrong.
+Manual check by a person (`human_verdict` in `fact_verification_sample.csv`): 50/50 filled; 50 marked correct, 0 marked wrong.

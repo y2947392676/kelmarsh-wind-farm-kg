@@ -77,4 +77,66 @@ axes[-1].xaxis.set_major_formatter(matplotlib.dates.DateFormatter("%H:%M"))
 fig.tight_layout()
 fig.savefig(FIG / "q3_window.png", dpi=200)
 plt.close(fig)
-print("saved", FIG / "schema.png", FIG / "q3_window.png")
+# ---------------------------------------------------------------- query paths (Q1-Q3)
+def draw_path(fname, boxes, arrows, start, notes):
+    """boxes: list of (node type, [id lines], count line); arrows: (from, to, relationship),
+    drawn in the stored edge direction; start: index of the box where the query starts."""
+    n = len(boxes)
+    fig, ax = plt.subplots(figsize=(8.0, 2.4))
+    ax.set_xlim(0, n); ax.set_ylim(-0.62, 1.12); ax.axis("off")
+    w, h = 0.70, 0.86
+    for i, (ntype, ids, count) in enumerate(boxes):
+        lw = 2.4 if i == start else 1.1
+        ax.add_patch(FancyBboxPatch((i + (1 - w) / 2, 0.05), w, h, boxstyle="round,pad=0.02",
+                                    fc="white", ec="black", lw=lw))
+        ax.text(i + 0.5, 0.80, ntype, ha="center", va="center", fontsize=10, weight="bold")
+        ax.text(i + 0.5, 0.50, "\n".join(ids), ha="center", va="center", fontsize=7.1,
+                family="monospace", linespacing=1.25)
+        ax.text(i + 0.5, 0.15, count, ha="center", va="center", fontsize=8, style="italic")
+        if i == start:
+            ax.text(i + 0.5, 1.03, "query starts here", ha="center", va="bottom", fontsize=8.5, weight="bold")
+    for a, b, rel in arrows:
+        left, right = min(a, b), max(a, b)
+        x1, x2 = left + 0.5 + w / 2 + 0.02, right + 0.5 - w / 2 - 0.02
+        xs, xe = (x1, x2) if a < b else (x2, x1)
+        ax.annotate("", xy=(xe, 0.48), xytext=(xs, 0.48),
+                    arrowprops=dict(arrowstyle="-|>", color="black", lw=1.2))
+        ax.text((x1 + x2) / 2, 0.56, rel.replace("_", "_\n", 1), ha="center", va="bottom",
+                fontsize=6.6, linespacing=1.1)
+    for k, line in enumerate(notes):
+        ax.text(0.02, -0.18 - 0.2 * k, line, ha="left", va="center", fontsize=8.5)
+    fig.tight_layout()
+    fig.savefig(FIG / fname, dpi=200)
+    plt.close(fig)
+
+
+q1 = pd.read_csv(OUT_DIR / "results" / "q1_gearbox_kelmarsh6_2021-02-05.csv", encoding="utf-8-sig")
+draw_path("q1_path.png",
+          [("Turbine", ["turbine:Kelmarsh_6"], "1 turbine"),
+           ("Observation", ["obs:Kelmarsh_6:", "2021-02-05T00:00:00:", "gearbox_speed"],
+            f"{len(q1)} on 2021-02-05"),
+           ("Signal", ["signal:gearbox_speed"], f"{q1.signal.nunique()} gearbox signals"),
+           ("Component", ["component:gearbox"], "1 component")],
+          [(0, 1, "HAS_OBSERVATION"), (1, 2, "OF_SIGNAL"), (2, 3, "MEASURES_ON")], start=3,
+          notes=["Arrows show the stored edge direction; the query walks from right to left.",
+                 "Filter: only observations of turbine:Kelmarsh_6 with a time on 2021-02-05."])
+
+draw_path("q2_path.png",
+          [("Turbine", ["turbine:Kelmarsh_6"], f"{q2.turbine.nunique()} turbine with this code"),
+           ("Event", [q2.event_id.iloc[0], "...", q2.event_id.iloc[-1]], f"{len(q2)} Warning events"),
+           ("EventCode", ["code:1050", "Drivetrain oscillations"], "1 code node")],
+          [(0, 1, "HAS_EVENT"), (1, 2, "HAS_CODE")], start=2,
+          notes=["Arrows show the stored edge direction; the query walks from right to left.",
+                 "turbine:Kelmarsh_1 has no event linked to code:1050."])
+
+draw_path("q3_path.png",
+          [("Event", ["event:Kelmarsh_6:L842", "start 08:33:07"], "the alarm"),
+           ("Turbine", ["turbine:Kelmarsh_6"], "1 turbine"),
+           ("Observation", ["obs:Kelmarsh_6:", "2021-02-05T08:30:00:", "drive_train_", "acceleration"],
+            f"{len(q3)} times x {len(q3.columns) - 2} signals"),
+           ("Signal", ["signal:", "drive_train_", "acceleration"], f"{len(q3.columns) - 2} signals")],
+          [(1, 0, "HAS_EVENT"), (1, 2, "HAS_OBSERVATION"), (2, 3, "OF_SIGNAL")], start=1,
+          notes=["Step 1: from the turbine, read the alarm start time of the event (08:33:07).",
+                 "Step 2: from the same turbine, take the observations from 07:33:07 to 09:03:07 and their signals."])
+
+print("saved", FIG / "schema.png", FIG / "q3_window.png", "q1_path.png", "q2_path.png", "q3_path.png")

@@ -9,3 +9,6 @@ TASK1_REPORT.html
 __pycache__/
 *.pyc
 TASK1_REPORT_EN_ZH.html
+
+# local QA screenshots
+tmp/

@@ -42,6 +42,8 @@ p:has(img) { text-indent: 0; }
 img { display: block; margin: 6pt auto 0; page-break-inside: avoid; }
 img[alt="Schema"] { width: 66%; }
 img[alt="Q3 window"] { width: 78%; }
+img[alt="Manual check"] { width: 100%; }
+img[alt^="Path"] { width: 100%; }
 """
 
 
@@ -50,15 +52,22 @@ def print_pdf(html: Path, pdf: Path):
         r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
         r"C:\Program Files\Google\Chrome\Application\chrome.exe",
         shutil.which("msedge") or "", shutil.which("chrome") or ""] if p and Path(p).exists())
-    subprocess.run([browser, "--headless", "--disable-gpu", "--no-pdf-header-footer",
-                    f"--print-to-pdf={pdf}", html.as_uri()], check=True, timeout=120)
+    # the browser's own console messages (UTF-8, shown garbled in a GBK console) are hidden
+    # unless printing fails
+    # --generate-pdf-document-outline turns the headings into PDF bookmarks (side panel)
+    r = subprocess.run([browser, "--headless", "--disable-gpu", "--no-pdf-header-footer",
+                        "--generate-pdf-document-outline",
+                        f"--print-to-pdf={pdf}", html.as_uri()], capture_output=True, timeout=120)
+    if r.returncode != 0 or not pdf.exists():
+        raise SystemExit(f"PDF printing failed:\n{r.stdout.decode('utf-8', 'replace')}"
+                         f"{r.stderr.decode('utf-8', 'replace')}")
 
 
 TOC_MARK = "<!-- contents -->"
 TOC_CSS = """
 .toc { break-after: page; }
 .toc h2 { text-align: center; margin-top: 6pt; }
-.tl { display: flex; align-items: flex-end; margin: 2pt 0; }
+.tl { display: flex; align-items: flex-end; margin: 2pt 0; color: #000; text-decoration: none; }
 .tl span:first-child { max-width: 88%; }
 .tl .dots { margin-bottom: 4pt !important; }
 .tl.l3 { padding-left: 1cm; }
@@ -72,10 +81,23 @@ def headings(md: str) -> list[tuple[int, str]]:
             for m in re.finditer(r"^(#{2,3}) (.+)$", md, flags=re.M)]
 
 
-def toc_html(heads, pages, title) -> str:
-    rows = "".join(f"<div class='tl l{lvl}'><span>{html.escape(t)}</span><span class='dots'></span>"
-                   f"<span>{pg}</span></div>" for (lvl, t), pg in zip(heads, pages))
+def toc_html(heads, pages, title, prefix="h") -> str:
+    """Contents list; every entry links to the heading anchor <prefix>-<n> (clickable in the PDF)."""
+    rows = "".join(f"<a class='tl l{lvl}' href='#{prefix}-{i}'><span>{html.escape(t)}</span>"
+                   f"<span class='dots'></span><span>{pg}</span></a>"
+                   for i, ((lvl, t), pg) in enumerate(zip(heads, pages), start=1))
     return f"<div class='toc'><h2>{title}</h2>{rows}</div>"
+
+
+def anchor_headings(html_text: str, prefix="h", start=1) -> tuple[str, int]:
+    """Give every <h2>/<h3> an id <prefix>-<n>, numbered in document order like headings()."""
+    n = start - 1
+
+    def tag(m):
+        nonlocal n
+        n += 1
+        return f"<h{m.group(1)} id='{prefix}-{n}'>"
+    return re.sub(r"<h([23])>", tag, html_text), n + 1
 
 
 def heading_pages(pdf: Path, heads) -> list[int]:
@@ -115,7 +137,7 @@ def build_with_contents(render, heads, pdf: Path, html_path: Path):
 def main():
     md = SRC.read_text(encoding="utf-8")
     heads = headings(md)
-    body = markdown.markdown(md, extensions=["tables", "fenced_code"])
+    body, _ = anchor_headings(markdown.markdown(md, extensions=["tables", "fenced_code"]))
 
     def render(pages):
         return (f"<!doctype html><html><head><meta charset='utf-8'><title>Task 1 Report</title>"

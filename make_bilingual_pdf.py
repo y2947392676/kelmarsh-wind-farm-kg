@@ -10,7 +10,8 @@ import re
 
 import markdown
 
-from make_pdf import CSS, ROOT, TOC_CSS, TOC_MARK, build_with_contents, headings, toc_html
+from make_pdf import (CSS, ROOT, TOC_CSS, TOC_MARK, anchor_headings, build_with_contents, headings,
+                      toc_html)
 
 EN, ZH = ROOT / "TASK1_REPORT.md", ROOT / "TASK1_REPORT_ZH.md"
 HTML, PDF = ROOT / "TASK1_REPORT_EN_ZH.html", ROOT / "TASK1_REPORT_EN_ZH.pdf"
@@ -27,6 +28,7 @@ table.pair td.en, table.pair td.zh { text-align: justify; }
 td.zh strong, td.zh h1, td.zh h2, td.zh th { font-family: "Times New Roman", SimHei, sans-serif; font-weight: normal; }
 td ul { margin: 1pt 0; }
 td.lvl1 ul { padding-left: 36pt; list-style-type: circle; }
+td .toc { break-after: auto; }  /* the page break after the contents comes from the div below */
 img[alt="Schema"] { width: 78%; }
 img[alt="Q3 window"] { width: 85%; }
 """
@@ -63,10 +65,23 @@ def main():
     zh_head, zh_rest = zh_md.split(TOC_MARK)
     top = pair_rows(blocks(en_head), blocks(zh_head))
     body = pair_rows(blocks(en_rest), blocks(zh_rest))
+    # heading anchors: headings in the English column get en-n, in the Chinese column zh-n
+    en_n = zh_n = 1
+    parts, body, side = re.split(r"(<td class='(?:en|zh)(?: lvl1)?'>)", body), "", None
+    for p in parts:
+        if p.startswith("<td class='en"):
+            side = "en"
+        elif p.startswith("<td class='zh"):
+            side = "zh"
+        elif side == "en":
+            p, en_n = anchor_headings(p, "en", en_n)
+        elif side == "zh":
+            p, zh_n = anchor_headings(p, "zh", zh_n)
+        body += p
 
     def render(pages):
-        toc = (f"<tr><td class='en'>{toc_html(en_heads, pages, 'Contents')}</td>"
-               f"<td class='zh'>{toc_html(zh_heads, pages, '目录')}</td></tr>")
+        toc = (f"<tr><td class='en'>{toc_html(en_heads, pages, 'Contents', 'en')}</td>"
+               f"<td class='zh'>{toc_html(zh_heads, pages, '目录', 'zh')}</td></tr>")
         return ("<!doctype html><html><head><meta charset='utf-8'><title>Task 1 Report EN-ZH</title>"
                 f"<style>{CSS}{TOC_CSS}{EXTRA}</style></head><body>"
                 f"<table class='pair'><tbody>{top}{toc}</tbody></table>"

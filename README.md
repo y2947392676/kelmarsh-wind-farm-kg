@@ -6,6 +6,30 @@ The graph connects 2021 Stop/Warning alarms, their codes and the 10-minute SCADA
 two turbines (Kelmarsh 1 and Kelmarsh 6), so that a maintenance analyst can ask which
 measurements were recorded around an alarm and on which part of the turbine they were taken.
 
+| What | Where |
+|---|---|
+| Task 1 report (English / Chinese / side by side) | `TASK1_REPORT.pdf`, `TASK1_REPORT_ZH.md`, `TASK1_REPORT_EN_ZH.pdf` |
+| Code | `build.py`, `checks.py`, `queries.py` (+ `kg_common.py`) |
+| Saved graph, checks, query results | `output/` |
+| Web front end for this graph (pages, query forms, evidence panel) | separate repository [kelmarsh-kg-web](https://github.com/y2947392676/kelmarsh-kg-web) |
+
+## Quick start (no raw data needed)
+
+The saved graph export (`output/nodes.csv.gz`, `output/edges.csv.gz`) is in the repository, so the
+queries run directly after cloning. On the first run the graph is rebuilt from the export
+(about 10 s) and cached as `output/graph_task1.pkl`; the rebuilt graph is identical to the one
+made by `build.py` (same nodes, edges and properties).
+
+```bash
+git clone https://github.com/y2947392676/kelmarsh-wind-farm-kg.git
+cd kelmarsh-wind-farm-kg
+pip install -r requirements.txt
+python queries.py
+```
+
+The raw data (section 1) are needed only to rebuild the graph from the source files
+(`build.py`, `checks.py`) and to open the cited source lines.
+
 ## 1. Data and access
 
 Kelmarsh wind farm data, v4 — Plumley, C., & Takeuchi, R. (2025), Zenodo,
@@ -99,9 +123,10 @@ sensor is physically mounted.
   - Rebuilding from the raw files gives an identical graph.
   - Re-importing the Status files changes nothing.
 - Fact sample: 50 facts (seed 42) were re-read from the cited source lines, and all 50 match.
-  - The author records the manual check in the `human_verdict` column of
-    `output/checks/fact_verification_sample.csv`.
-  - `check_report.md` shows how many verdicts are filled in.
+  - Manual check: the author opened each cited cell of the original CSV files in Excel next to
+    `output/checks/fact_verification_sample.csv` and recorded a verdict in `human_verdict`:
+    50 of 50 correct (see report, Figure 2).
+  - `output/checks/manual_check_jump_list.csv` lists the cell to open for each fact.
   - Re-running `checks.py` keeps the verdicts.
 - Saved graph for submission: `output/nodes.csv.gz` and `output/edges.csv.gz` (all properties,
   including provenance). The 88 MB `output/graph_task1.pkl` is rebuilt by `build.py` and is not in git.
@@ -150,4 +175,5 @@ sensor is physically mounted.
 
 - No model created graph facts. The graph is rebuilt from the CSV files without any model
   call.
-- The `human_verdict` column is filled in by the author, not by a model.
+- The `human_verdict` column is filled in by the author, not by a model. The author made each
+  verdict by opening the cited cell in the original CSV file.
