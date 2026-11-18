@@ -27,21 +27,42 @@ pip install -r requirements.txt
 python queries.py
 ```
 
-The raw data (section 1) are needed only to rebuild the graph from the source files
-(`build.py`, `checks.py`) and to open the cited source lines.
+On Windows, run these commands in PowerShell, cmd or the Anaconda Prompt.
+
+**What works without the raw data**
+
+| Task | Without raw data | With raw data (section 1) |
+|---|---|---|
+| `python queries.py` (Q1–Q3, also with other parameters) | yes | yes |
+| Saved graph, checks and query results in `output/` | yes (already in the repository) | yes |
+| Web front end ([kelmarsh-kg-web](https://github.com/y2947392676/kelmarsh-kg-web)) | yes, except the source-line panel | yes |
+| `python build.py` (rebuild the graph from the source files) | no | yes |
+| `python checks.py` (integrity checks, rebuild test, fact sample) | no | yes |
+| Open a cited source line (e.g. Status file, line 842) | no | yes |
+
+**If it does not run**
+
+- `python` or `pip` is not found, or a module such as `pandas` is missing: the terminal is not using
+  the Python that has the packages. Use the Anaconda Prompt, or call that Python directly, e.g.
+  `D:\anaconda3\python.exe queries.py` and `D:\anaconda3\python.exe -m pip install -r requirements.txt`.
+- `FileNotFoundError ... run python build.py first`: the folder `output/` with `nodes.csv.gz` and
+  `edges.csv.gz` is missing; clone the repository again instead of copying single files.
+- `build.py` or `checks.py` cannot find the Kelmarsh files: download the raw data (section 1).
 
 ## 1. Data and access
 
 Kelmarsh wind farm data, v4 — Plumley, C., & Takeuchi, R. (2025), Zenodo,
 https://doi.org/10.5281/zenodo.16807551, CC BY 4.0. The raw data are not stored in this repository.
 
-1. Download `Kelmarsh_SCADA_2021_4456.zip` from https://zenodo.org/records/16807551 and unzip it
-   to `raw_data/Kelmarsh_SCADA_2021_4456/` (the default location; not stored in git).
-2. Or point the scripts at another folder:
+1. Download `Kelmarsh_SCADA_2021_4456.zip` (467 MB; 1.2 GB unzipped, all six turbines) from
+   https://zenodo.org/records/16807551 and unzip it to `raw_data/Kelmarsh_SCADA_2021_4456/`
+   (the default location; not stored in git). Only the four files listed below (about 416 MB) are used.
+2. Or point the scripts at another folder (set it in the same terminal before running the scripts):
 
 ```bash
+$env:KELMARSH_DATA_DIR="C:\path\to\Kelmarsh_SCADA_2021_4456"   # Windows PowerShell
 set KELMARSH_DATA_DIR=C:\path\to\Kelmarsh_SCADA_2021_4456      # Windows cmd
-export KELMARSH_DATA_DIR=/path/to/Kelmarsh_SCADA_2021_4456     # bash
+export KELMARSH_DATA_DIR=/path/to/Kelmarsh_SCADA_2021_4456     # macOS / Linux
 ```
 
 Files used: `Turbine_Data_Kelmarsh_{1,6}_2021-01-01_-_2022-01-01_{228,233}.csv` and

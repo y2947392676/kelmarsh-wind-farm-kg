@@ -1,6 +1,6 @@
 # 88 MB pickle is rebuilt by build.py; the graph export kept in git is nodes.csv.gz + edges.csv.gz
 output/graph_task1.pkl
-# raw Kelmarsh data (1.7 GB, CC BY 4.0, download from Zenodo) and private course files
+# raw Kelmarsh data (zip 467 MB, 1.2 GB unzipped; CC BY 4.0, download from Zenodo) and private course files
 raw_data/
 course_materials/
 CHATGPT_HANDOFF.md
